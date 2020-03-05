@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:ialogEDU:  Wordpress Plugin | Business Requirement Document}
+
+## DialogEDU:  Wordpress Plugin | Business Requirement Document
 
 ## Overview
 This Business Requirement Document (BRD) will cover the use cases for the Word Press Plugin (WPP).  dialogEDU is a software company that offers a Learning Management System (LMS) to schools and companies world-wide.  We have a couple of customers that need a traditional e-commerce system that manages subscriptions, shopping carts and other e-commerce features.  dialogEDU’s LMS is not an e-commerce system, therefore we want to build WPP that integrates with the LMS.  Below, we will outline the known uses cases and will serve as the project requirements. 
