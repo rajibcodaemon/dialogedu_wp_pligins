@@ -57,6 +57,3 @@ example: https://ghe.dialogedu.com/callback/xVxhAvd0GJpZE3KCbmcw?site=my- health
 3. Moumita Ray
 4. Rajib Naskar
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
